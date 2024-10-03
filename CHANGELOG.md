@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file. The format 
 
 ## [v3.0.0](https://github.com/puppetlabs/puppetlabs-bootstrap/tree/v3.0.0) (2024-10-03)
 
+[Full Changelog](https://github.com/puppetlabs/puppetlabs-bootstrap/compare/v2.1.0...v3.0.0)
+
 **Breaking changes:**
 
 - pdksync - Remove Puppet 5 from testing and bump minimal version to 6.0.0 [\#159](https://github.com/puppetlabs/puppetlabs-bootstrap/pull/159) ([carabasdaniel](https://github.com/carabasdaniel))
