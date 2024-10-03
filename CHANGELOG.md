@@ -8,6 +8,7 @@ All notable changes to this project will be documented in this file. The format 
 
 **Breaking changes:**
 
+- Bumped minimal Puppet version to 7. Drop support for unsupported operating systems [\#170](https://github.com/puppetlabs/puppetlabs-bootstrap/pull/170) ([benjamin-robertson](https://github.com/benjamin-robertson))
 - pdksync - Remove Puppet 5 from testing and bump minimal version to 6.0.0 [\#159](https://github.com/puppetlabs/puppetlabs-bootstrap/pull/159) ([carabasdaniel](https://github.com/carabasdaniel))
 
 **Closed issues:**
